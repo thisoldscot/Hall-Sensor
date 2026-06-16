@@ -4,7 +4,7 @@
 
 ## About the Project
 
-| ![Hall effect sensor breakout with analog output](https://github.com/fabemit/Hall-Sensor/blob/main/images/Hall-Sensor.png) |
+| ![Hall effect sensor breakout with analog output](https://github.com/thisoldscot/Hall-Sensor/blob/main/images/Hall-Sensor.png) |
 | :--------------------------------------------------------------------------------------------------------------------------: |
 
 A Hall effect sensor breakout board with **analog output**. The sensor detects the
@@ -64,7 +64,7 @@ We encourage community collaboration to make this project even better.
 
 ## About ThisOldScot
 
-<img src="https://github.com/fabemit/Hall-Sensor/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
+<img src="https://github.com/thisoldscot/Hall-Sensor/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
 
 [ThisOldScot](https://thisoldscot.com) enjoys designing and making electronic
 products and projects for enthusiasts, from hobbyists to professionals — boards,
